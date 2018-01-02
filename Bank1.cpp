@@ -68,7 +68,7 @@ class bank
 	}
 	else
 	{
-		if(wma=balance)
+		if(wma==balance)
 		{
 		balance=balance-wma;
 		cout<<"\n Left Amount is-"<<balance;	
